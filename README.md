@@ -41,4 +41,4 @@ Step 3. Open RStudio.
 
 Step 4. type "source('run_Analysis.R')".
 
-In the RStudio working directory, tidy_data.txt is written with the tidy data set.
+In the RStudio working directory, "tidydata.txt" is written with the tidy data set.
